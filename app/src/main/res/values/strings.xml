@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">sdP</string>
+    <string name="txt1">AllinOne-App</string>
+    <string name="Calculator">Calculator</string>
+    <string name="allinone">All-In-One</string>
+    <string name="making_work_easier">Making Work Easier</string>
+    <string name="alarm_and_clock">Alarm/Clock</string>
+    <string name="calendar">Calendar</string>
+    <string name="text_to_speech">Text To Speech</string>
+    <string name="weather">weather</string>
+    <string name="pdf_viewer">PDF Viewer</string>
+
+    <string name="navigation_open">Open Navigation Drawer</string>
+    <string name="navigation_close">Close Navigation Drawer</string>
+</resources>
